@@ -1,4 +1,4 @@
-tensorflow==2.3.1
+tensorflow==2.5.1
 scikit-learn==0.23.0
 matplotlib
 gym[atari]==0.17.1

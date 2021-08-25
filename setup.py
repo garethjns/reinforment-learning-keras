@@ -16,6 +16,6 @@ setuptools.setup(
         "Programming Language :: Python :: 3",
         "Operating System :: OS Independent"],
     python_requires='>=3.6',
-    install_requires=["tensorflow==2.3.1", "scikit-learn==0.23.0", "matplotlib", "gym[atari]==0.17.1",
+    install_requires=["tensorflow==2.5.1", "scikit-learn==0.23.0", "matplotlib", "gym[atari]==0.17.1",
                       "dataclasses", "tqdm", "seaborn", "joblib", "numpy", "coverage", "mock", "opencv-python",
                       "joblib", "tf2-vgpu"])
